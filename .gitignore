@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+ai_env/
+venv/
+env/
+ENV/
+.venv
+
+# Chroma DB
+chroma_db/
+
+# DevOps files (თუ არ გინდა ატვირთვა)
+devops_files/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.db
+*.sqlite
+*.log
